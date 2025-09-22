@@ -17,10 +17,10 @@ Web / Full-Stack Developer & AI Enthusiast
 
 | Project | Description | Tech Stack |
 |---|-------------|------------|
-| **[All-verse-Lowk](https://github.com/MoMaksoud/All-verse-Lowk)** | AI-marketplace / social platform (or whatever your official description is) | *frontend tech*, *backend tech*, *any APIs used* |
-| **[Zeno](https://github.com/MarioSinclair/Zeno)** | Credit card optimizer — recommends based on rewards & usage | *frontend tech*, *backend tech*, *database / APIs* |
-| **Smart Job Tracker** | Full-stack app to track job applications + generate custom resumes | *fill in your tech stack* |
-| **AI Chatbot** | Conversational agent built in JavaScript | *fill in tech stack* |
+| **[All-verse-Lowk](https://github.com/MoMaksoud/All-verse-Lowk)** | AI-powered social marketplace platform | React, Vite, Tailwind CSS, Node.js, Express, Firebase, OpenAI API |
+| **[Zeno](https://github.com/MarioSinclair/Zeno)** | Credit card optimizer recommending the best rewards card | React, Vite, Tailwind CSS, Node.js, Express, MongoDB |
+| **Smart Job Tracker** | Full-stack app to track job applications + generate tailored resumes | React, Node.js, Express, MongoDB, Tailwind CSS, OpenAI API |
+| **[AI Chatbot](https://github.com/MoMaksoud/ai-chatbot)** | Real-time chat app with authentication + Google Generative AI integration | React, Vite, Tailwind CSS, Supabase, Google GenAI API |
 
 ---
 
@@ -28,9 +28,10 @@ Web / Full-Stack Developer & AI Enthusiast
 
 ```
 Languages: C · C++ · Python · JavaScript · HTML · CSS  
-Frontend: React · TailwindCSS · etc.  
-Backend: Node.js · Express · MongoDB / Firebase / etc.  
-Other: Git · Linux · AI/ML libraries (OpenAI / TensorFlow etc.)  
+Frontend: React · TailwindCSS · Vite  
+Backend: Node.js · Express  
+Databases: MongoDB · Firebase · Supabase  
+Other: Git · Linux · OpenAI API · Google GenAI · Verilog/FPGA  
 ```
 
 ---
@@ -44,7 +45,6 @@ Open to Software Engineering Internships (Summer 2026)
 ## 📫 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-abdelmaksoud-6b416b295/)  
-<!-- Portfolio Website: *(you can add this if you build one)* -->
 
 ---
 
