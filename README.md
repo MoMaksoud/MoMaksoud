@@ -49,6 +49,4 @@ Open to Software Engineering Internships (Summer 2026)
 ---
 
 ## 📊 GitHub Stats
-
-![Mo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MoMaksoud&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoMaksoud&layout=compact&theme=tokyonight)
