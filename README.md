@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mo (Mohamed Abdelmaksoud)
+# 👋 Hi, I’m Mo (Mohamed Abdelmaksoud) 🇪🇬
 
 **Computer Engineering Student @ University of South Florida**  
 Web / Full-Stack Developer & AI Enthusiast  
