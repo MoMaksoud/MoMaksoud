@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Mo (Mohamed Abdelmaksoud) 🇪🇬
+# Hi, I’m Mo (Mohamed Abdelmaksoud) 🇪🇬
 
 **Computer Engineering Student @ University of South Florida**  
 Web / Full-Stack Developer & AI Enthusiast  
 
 ---
 
-## 🛠️ What I Do
+## What I Do
 
 - Building **AI-powered apps** & **fintech tools**  
 - Full-stack web development: Frontend + Backend + Database  
@@ -24,7 +24,7 @@ Web / Full-Stack Developer & AI Enthusiast
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
 ```
 Languages: C · C++ · Python · JavaScript · HTML · CSS  
@@ -42,11 +42,8 @@ Open to Software Engineering Internships (Summer 2026)
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-abdelmaksoud-6b416b295/)  
 
 ---
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoMaksoud&layout=compact&theme=tokyonight)
