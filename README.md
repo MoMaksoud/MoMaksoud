@@ -19,7 +19,7 @@ Web / Full-Stack Developer & AI Enthusiast
 |---|-------------|------------|
 | **[All-verse-Lowk](https://github.com/MoMaksoud/All-verse-Lowk)** | AI-powered social marketplace platform | React, Vite, Tailwind CSS, Node.js, Express, Firebase, OpenAI API |
 | **[Zeno](https://github.com/MarioSinclair/Zeno)** | Credit card optimizer recommending the best rewards card | React, Vite, Tailwind CSS, Node.js, Express, MongoDB |
-| **[Personal Website](https://github.com/MoMaksoud/my-website)** | Full-stack app to track job applications + generate tailored resumes | React, Node.js, Express, MongoDB, Tailwind CSS, OpenAI API |
+| **[Personal Website](https://github.com/MoMaksoud/my-website)** | Personal Website that shows my projects| HTML, CSS, JavaScript |
 | **[AI Chatbot](https://github.com/MoMaksoud/ai-chatbot)** | Real-time chat app with authentication + Google Generative AI integration | React, Vite, Tailwind CSS, Supabase, Google GenAI API |
 
 ---
