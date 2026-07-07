@@ -23,5 +23,5 @@ Other: Docker, Git, GitHub, Icarus Verilog, Stripe, REST APIs
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-abdelmaksoud/)  
+[LinkedIn](https://www.linkedin.com/in/mohamed-abdelmaksoud-6b416b295/)  
 [Instagram](https://instagram.com/mo_alaax)
