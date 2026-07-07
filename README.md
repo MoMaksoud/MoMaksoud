@@ -1,49 +1,27 @@
-# Hi, I’m Mo (Mohamed Abdelmaksoud) 🇪🇬
+# Hey, I’m Mo
 
-**Computer Engineering Student @ University of South Florida**  
-Web / Full-Stack Developer & AI Enthusiast  
+I’m a Computer Engineering student at the University of South Florida.
 
----
+I like building useful software, especially AI tools, full-stack apps, and systems that connect messy real-world workflows into something cleaner. Lately I’ve been working with things like RAG, internal support agents, developer tools, marketplaces, and hardware/Verilog projects.
 
-## What I Do
+## Stuff I’m into
 
-- Building **AI-powered apps** & **fintech tools**  
-- Full-stack web development: Frontend + Backend + Database  
-- Passionate about clean UI/UX, performance, maintainable code  
+- AI apps that do more than just wrap a chatbot
+- Full-stack web apps with clean UX
+- Developer tools and automation
+- Hardware design, Verilog, and LLM-assisted RTL workflows
+- Turning rough ideas into usable products
 
----
+## Stuff I use
 
-## 🚀 Featured Projects
+Languages: Python, C, C++, JavaScript, TypeScript, Java, SQL, Verilog, HTML, CSS  
+Frontend: React, Next.js, Tailwind CSS, Vite  
+Backend: Node.js, FastAPI, Express  
+Databases: PostgreSQL, MongoDB, Firebase, Supabase, SQLite  
+AI / Tools: OpenAI API, Claude API, Whisper API, LlamaIndex, ChromaDB, RAG, Vector Search  
+Other: Docker, Git, GitHub, Icarus Verilog, Stripe, REST APIs
 
-| Project | Description | Tech Stack |
-|---|-------------|------------|
-| **[All-verse-Lowk](https://github.com/MoMaksoud/All-verse-Lowk)** | AI-powered social marketplace platform | React, Vite, Tailwind CSS, Node.js, Express, Firebase, OpenAI API |
-| **[Zeno](https://github.com/MarioSinclair/Zeno)** | Credit card optimizer recommending the best rewards card | React, Vite, Tailwind CSS, Node.js, Express, MongoDB |
-| **[Personal Website](https://github.com/MoMaksoud/my-website)** | Personal Website that shows my projects| HTML, CSS, JavaScript |
-| **[AI Chatbot](https://github.com/MoMaksoud/ai-chatbot)** | Real-time chat app with authentication + Google Generative AI integration | React, Vite, Tailwind CSS, Supabase, Google GenAI API |
+## Links
 
----
-
-## Skills & Tools
-
-```
-Languages: C · C++ · Python · JavaScript · HTML · CSS  
-Frontend: React · TailwindCSS · Vite  
-Backend: Node.js · Express  
-Databases: MongoDB · Firebase · Supabase  
-Other: Git · Linux · OpenAI API · Google GenAI · Verilog/FPGA  
-```
-
----
-
-## 🎯 What I’m Looking For
-
-Open to Software Engineering Internships (Summer 2026)  
-
----
-
-## Connect with Me
-
-[LinkedIn](https://www.linkedin.com/in/mohamed-abdelmaksoud-6b416b295/)  
-
----
+[LinkedIn](https://www.linkedin.com/in/mohamed-abdelmaksoud/)  
+[Instagram](https://instagram.com/mo_alaax)
